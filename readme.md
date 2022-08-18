@@ -5,7 +5,6 @@
   <img src="https://github.com/fumeapp/gin-example/blob/production/gin-example.png?raw=true" />
 </p>
 
-
 ```go
 package main
 
@@ -13,7 +12,6 @@ import (
 	fume "github.com/fumeapp/gin"
 	"github.com/gin-gonic/gin"
 )
-
 
 func main() {
 	routes := gin.New()
